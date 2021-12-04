@@ -15,6 +15,12 @@
                             class="text-gray-800 text-sm font-semibold hover:text-purple-600 mr-4"
                         >Login</a>
                     </div>
+                    // <div class="flex justify-end items-center pt-2">
+                    //    <a
+                    //        href="#"
+                    //        class="text-gray-800 text-sm font-semibold hover:text-purple-600 mr-4"
+                    //    >Login</a>
+                    // </div>
                 </div>
             </div>
         </div>
